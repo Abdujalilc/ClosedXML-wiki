@@ -1,6 +1,6 @@
 # FAQ
 * [How do I deliver an Excel file in ASP.NET?](Deliver-an-Excel-file-in-ASP.NET.md)
-* [Does it support Excel 2003 and prior formats (.xls.md)?](Does-it-support-Excel-2003-and-prior-formats-(.xls.md).md)
+* [Does it support Excel 2003 and prior formats (.xls.md)?](Does-it-support-Excel-2003-and-prior-formats-(.xls).md)
 * [How can I insert an image?](How-can-I-insert-an-image.md)
 * [Text with numbers are getting converted to numbers, what's up with that?](Text-with-numbers-are-getting-converted-to-numbers.md)
 * [How do I get the result of a formula?](How-do-I-get-the-result-of-a-formula.md)
